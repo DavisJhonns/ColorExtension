@@ -18,5 +18,8 @@ If you’ve ever wanted to convert `#FF5733` into a `System.Drawing.Color`, `Mic
 
 ## Installation
 
+Install the package from [NuGet.org](https://www.nuget.org/packages/ColorExtension):
+
 ```bash
-dotnet add package ColorExtension --version 1.0.0
+dotnet add package ColorExtension
+```
